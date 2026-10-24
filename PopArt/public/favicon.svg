@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <path d="M32 2L39 18L56 12L49 28L63 37L46 43L49 60L33 49L21 62L20 45L4 46L14 33L1 21L18 20L19 3Z" fill="#FFE800" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="32" cy="32" r="16" fill="#FF1E27" stroke="#000000" stroke-width="2"/>
+  <text x="32" y="38" font-family="Inter, sans-serif" font-size="14" font-weight="900" fill="#FFFFFF" text-anchor="middle">POP</text>
+</svg>
